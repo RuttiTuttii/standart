@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Moodle Quiz Helper
-// @namespace    https://sdo.arcotel.ru/
+// @namespace    Userscripts
 // @version      2.2
 // @description  Парсит ВСЕ страницы теста через fetch, копирует для нейронки, автозаполняет
 // @match        https://sdo.arcotel.ru/*
