@@ -3,7 +3,7 @@
 // @namespace    https://sdo.arcotel.ru/
 // @version      2.2
 // @description  Парсит ВСЕ страницы теста через fetch, копирует для нейронки, автозаполняет
-// @match        https://sdo.arcotel.ru/mod/quiz/attempt.php*
+// @match        https://sdo.arcotel.ru/*
 // @inject-into  auto
 // @run-at       document-end
 // @grant        GM.setClipboard
